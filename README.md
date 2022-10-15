@@ -9,12 +9,12 @@
 ### 📄 我的简历（中文）在[这里]() / My Résumé(English) is available [here]() *(暂时不可用/not available now)*  
 ## 🔭 最近工作 / To-Do List
  - [ ] 正在考研，以防失学 / Preparing for NPEE (Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))  
-## 🌱 科研兴趣 / My research interests
+## 🌱 科研兴趣 / Research Interests
  - 数据科学与人工智能（大概？） / Data Science and Artificial Intelligence (probably not?)
-## 📫 联系方式 / How to reach me
+## 📫 联系方式 / Find me
 [![Homepage](https://img.shields.io/badge/Blog-crane.moe-2b3388?style=for-the-badge&logo=netlify&logoColor=white)](https://crane.moe)
-[![Telegram](https://img.shields.io/badge/Telegram-crane22-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crane22)
-[![E-mail](https://img.shields.io/badge/EMail-Amadeus.Dreaming@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Amadeus.Dreaming@outlook.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@crane22-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crane22)
+[![E-mail](https://img.shields.io/badge/EMail-i@crane.moe-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:i@crane.moe)
 
 ### ✨ Ad astra per aspera. ✨
 

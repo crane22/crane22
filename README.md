@@ -4,21 +4,23 @@
   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crane22&show_icons=true&theme=prussian"/>
   
- - 我是鹤望兰，你也可以叫我小鹤，是一个热衷于起名字的天马行空的神经病（毕竟这年头，会突然决定要去考个研，还是在2022年这种情况，还要考个清华的人，不多了）。目前就读于某野🐓️大学信息工程专业，即将处于失学边缘。  
+ - 我是鹤望兰，你也可以叫我小鹤，目前就读于某野🐓️大学信息工程专业，即将处于失学边缘。是一个热衷于起名字的天马行空的神经病（毕竟这年头，会突然决定要去考个研，还是在2022年这种情况，还要考个清华的人，不多了）。  
  - I am Strelitzia, and you can also call me crane (NOT a 🏗️, for Strelitzia is also known as "crane flower") or tsuru-chan (Crane is pronounced as "ツル" in Japanese). I am now an undergraduate at BUPT, major in Information Engineering.   
 ### 📄 我的简历（中文）在[这里]() / My Résumé(English) is available [here]()  
 ## 🔭 最近工作 / To-Do List
  - [ ] 正在考研，以防失学 / Preparing for NPEE: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912)  
 ## 🌱 科研兴趣 / My research interests
  - 数据科学与人工智能（大概？） / Data Science and Artificial Intelligence (probably not?)
-## 🌼 兴趣爱好 / Interests
-
 ## 📫 联系方式 / How to reach me
+[![Homepage](https://img.shields.io/badge/Blog-crane.moe-2b3388?style=for-the-badge&logo=netlify&logoColor=white)](https://crane.moe)
+[![Telegram](https://img.shields.io/badge/Telegram-crane22-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crane22)
+[![E-mail](https://img.shields.io/badge/EMail-Amadeus.Dreaming@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Amadeus.Dreaming@outlook.com)
 
-### ✨ Ad astra per aspera.
+### ✨ Ad astra per aspera. ✨
 
 <!---
-## 🏢曾经工作经历/Previous "workship?"
+## 🏢工作经历 / Contributions
+
 - 👋 Hi, I’m @crane22
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

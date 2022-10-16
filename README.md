@@ -24,7 +24,7 @@
 [![E-mail](https://img.shields.io/badge/EMail-i@crane.moe-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:i@crane.moe)
 
 ### ✨ Seine Zeit in sich zu überwinden, "zeitlos" zu werden. ✨
-### ✨ 在自己的身上克服这个时代，成为“永不过时的”新人类。✨
+### ✨ 在自己的身上克服这个时代，成为“永不过时的”新人。✨
 ### ✨ To overcome his age in himself, to become “timeless.” ✨
 
 <!---

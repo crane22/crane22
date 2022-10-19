@@ -6,7 +6,7 @@
   
  - 我是鹤望兰，你也可以叫我小鹤，目前就读于某野🐓️大学信息工程专业，即将处于失学边缘。是一个热衷于起名字的天马行空的神经病（毕竟这年头，会突然决定要去考个研，还是在2022年这种情况，还要考个清华的人，不多了）。  
  - I am Strelitzia, and you can also call me crane (NOT a 🏗️, for Strelitzia is also known as "crane flower") or tsuru-chan (Crane is pronounced as "ツル" in Japanese). I am now an undergraduate at BUPT, major in Information Engineering.   
-<!--- ### ---> ~📄 我的简历（中文）在[这里]() / My Résumé (in English) is available [here]() ~*(暂时不可用/not available now)*  
+### 📄 ~我的简历（中文）在[这里]() / My Résumé (in English) is available [here]()~ *(暂时不可用/not available now)*  
 ## 🔭 最近目标 / To-Do List
  - [ ] 正在考研，以防失学 / Preparing for NPEE (Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))  
 ## 🌱 科研兴趣 / Research Interests
@@ -24,7 +24,6 @@
 [![E-mail](https://img.shields.io/badge/EMail-i@crane.moe-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:i@crane.moe)
 
 ### ✨ Seine Zeit in sich zu überwinden, "zeitlos" zu werden. ✨
-### ✨ 在自己的身上克服这个时代，成为“永不过时的”新人。✨
 ### ✨ To overcome his age in himself, to become “timeless.” ✨
 
 <!---

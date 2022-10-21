@@ -8,9 +8,10 @@
  - I am Strelitzia, and you can also call me crane (NOT a 🏗️, for Strelitzia is also known as "crane flower") or tsuru-chan (Crane is pronounced as "ツル" in Japanese). I am now an undergraduate at BUPT, major in Information Engineering.   
 ### 📄 ~我的简历（中文）在[这里]() / My Résumé (in English) is available [here]()~ *(暂时不可用/not available now)*  
 ## 🔭 最近目标 / To-Do List
- - [ ] 正在考研，以防失学 / Preparing for NPEE (Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))  
+ - [ ] 正在考研，以防失学 / Preparing for PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))  
 ## 🌱 科研兴趣 / Research Interests
- - 数据科学与人工智能（大概？） / Data Science and Artificial Intelligence (probably not?)
+ - 数据科学与人工智能（大概不算） / Data Science and Artificial Intelligence (probably not)
+ - 机器学习系统 / MLSys
 <!---
 ## 🏢 开源贡献 / Contributions
 --->

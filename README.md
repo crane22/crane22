@@ -1,5 +1,5 @@
 #  👋 嘿，你好 / Hi, geeks! ![visitors](https://visitor-badge.glitch.me/badge?page_id=crane22.crane22)
-## 🦩 个人简介 / Who am I
+## 🦩 个人简介 / Who am I?
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crane22&show_icons=true&theme=prussian"/>
 
@@ -17,8 +17,9 @@
 | **人类语言 / Human Languages** | Chinese, English | Japanese |  |
 # 🔭 最近目标 / To-Do List
  - [ ] 考研 / Prepare for the Chinese PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))  
- - [ ] 简单实现一个操作系统 / Build a simple Operating System
- - [ ] 学Rust / Learn Rust
+ - [ ] 简单实现一个操作系统内核 / Build a simple Operating System Kernel
+ - [ ] 简单实现一个TCP/IP协议栈 / Implement a simple TCP/IP Protocol Stack
+ - [ ] 学习Rust并实现常见数据结构 / Learn Rust and make common Data Structures
 <!---
 ## 🏢 开源贡献 / Contributions
 --->
@@ -27,7 +28,7 @@
  - 🏎️ 赛车（主要是F1) / Automobile Racing (mainly Formula 1)
  - 🎮 二刺螈吧大概 / Animes, Comics, Games and Novels
  - 🐈 可爱猫猫 / Cute Cats
-## 📫 联系方式 / How to reach me
+## 📫 联系方式 / How to reach me?
 [![Homepage](https://img.shields.io/badge/Blog-crane.moe-2b3388?style=for-the-badge&logo=netlify&logoColor=white)](https://crane.moe)
 [![Telegram](https://img.shields.io/badge/Telegram-@crane22-0078D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crane22)
 [![E-mail](https://img.shields.io/badge/EMail-i@crane.moe-2ca5e0?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:i@crane.moe)

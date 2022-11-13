@@ -1,5 +1,5 @@
 #  👋 嘿，你好 / Hi, geeks! ![visitors](https://visitor-badge.glitch.me/badge?page_id=crane22.crane22)
-## 🦩 个人简介 / Who am I?
+## 💐 个人简介 / Who am I?
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crane22&show_icons=true&theme=prussian"/>
 
@@ -23,7 +23,7 @@
 <!---
 ## 🏢 开源贡献 / Contributions
 --->
-## ✨ 业余爱好 / Hobbies
+## ✨ 业余爱好 / What I like?
  - 🎶 各种音乐（尤其是古典乐） / All kinds of Music (especially Classical)
  - 🏎️ 赛车（主要是F1) / Automobile Racing (mainly Formula 1)
  - 🎮 二刺螈吧大概 / Animes, Comics, Games and Novels

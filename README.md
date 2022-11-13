@@ -3,23 +3,23 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crane22&show_icons=true&theme=prussian"/>
 
- - 我是鹤望兰（可以叫我小鹤）。目前就读于某野🐔大学信息工程专业大四。热衷于发现问题、解决问题；也喜欢瞎鼓捣东西。  
- - I am Crane Lily (a.k.a. Strelitzia reginae), and you can call me "crane" (NOT this machine 🏗️!). I am currently a senior student at Beijing University of Posts and Telecommunications in China, majoring in Information Engineering. I'm a creative problem-solving enthusiast and a guy who loves hacking stuff. 
+ - 我是鹤望兰（可以叫我小鹤）。目前是某野🐔大学信息工程专业大四。热衷于发现问题、解决问题；也喜欢瞎鼓捣东西。  
+ - I am Crane Lily (a.k.a. Strelitzia reginae), and you can call me "crane" (NOT this machine 🏗️! ). I am currently a senior student at Beijing University of Posts and Telecommunications in China, majoring in Information Engineering. I'm a creative problem-solving enthusiast and a guy who loves hacking stuff. 
 ### 📄 ~我的简历（中文）在[这里]() / My Résumé (in English) is available [here]()~ *(暂时不可用/not available now)*  
 ## 🌱 科研兴趣 / Research Interests
  - 机器学习系统 / Machine Learning Systems (i.e. MLSys)
  - 数据科学与人工智能（曾经简单涉猎） / Data Science and Artificial Intelligence (learned before)
 ## ⚙️ 技术技能 / Specifications
-| | 高/High | 中/Medium | 低/Low |
+| | 高 / High | 中 / Medium | 低 / Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **编程语言 / Programming Languages** | Python, C/C++ | Java | Rust, Verilog |
-| **框架平台 / Frameworks & Platforms** | PyTorch | Git | Docker, K8s |
+| **框架平台 / Frameworks & Platforms** | PyTorch | Git, zsh | Docker, K8s |
 | **人类语言 / Human Languages** | Chinese, English | Japanese |  |
 ## 🔭 最近目标 / To-Do List
- - [ ] 考研 / Prepare for the Chinese PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))  
+ - [ ] 考研 / Prepare for the Chinese PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))
  - [ ] 简单实现一个操作系统内核 / Build a simple Operating System Kernel
- - [ ] 简单实现一个TCP/IP协议栈 / Implement a simple TCP/IP Protocol Stack
- - [ ] 学习Rust并实现常见数据结构 / Learn Rust and make common Data Structures
+ - [ ] 简单实现一个TCP/IP协议栈 /Make a simple TCP/IP Protocol Stack
+ - [ ] 学习Rust并实现常见数据结构 / Learn Rust and implement common Data Structures
 <!---
 ## 🏢 开源贡献 / Contributions
 --->

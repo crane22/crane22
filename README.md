@@ -13,13 +13,13 @@
 | | 高 / High | 中 / Medium | 低 / Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **编程语言 / Programming Languages** | Python, C/C++ | Java | Rust, Verilog |
-| **框架平台 / Frameworks & Platforms** | PyTorch | Git, zsh | Docker, K8s |
+| **框架平台 / Frameworks & Platforms** | PyTorch | Git, Zsh | Docker, K8s |
 | **人类语言 / Human Languages** | Chinese, English | Japanese |  |
 ## 🔭 最近目标 / To-Do List
  - [ ] 考研 / Prepare for the Chinese PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))
  - [ ] 简单实现一个操作系统内核 / Build a simple Operating System Kernel
  - [ ] 简单实现一个TCP/IP协议栈 /Make a simple TCP/IP Protocol Stack
- - [ ] 学习Rust并实现常见数据结构 / Learn Rust and implement common Data Structures
+ - [ ] 学习Rust并实现常见数据结构 / Learn Rust and implement common Data Structures on it
 <!---
 ## 🏢 开源贡献 / Contributions
 --->

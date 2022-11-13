@@ -18,7 +18,7 @@
 ## 🔭 最近目标 / To-Do List
  - [ ] 考研 / Prepare for the Chinese PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))
  - [ ] 简单实现一个操作系统内核 / Build a simple Operating System Kernel
- - [ ] 简单实现一个TCP/IP协议栈 /Make a simple TCP/IP Protocol Stack
+ - [ ] 简单实现一个TCP/IP协议栈 / Make a simple TCP/IP Protocol Stack
  - [ ] 学习Rust并实现常见数据结构 / Learn Rust and implement common Data Structures on it
 <!---
 ## 🏢 开源贡献 / Contributions

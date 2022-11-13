@@ -23,7 +23,7 @@
 <!---
 ## 🏢 开源贡献 / Contributions
 --->
-## ✨ 业余爱好 / What I like?
+## ✨ 业余爱好 / What do I like?
  - 🎶 各种音乐（尤其是古典乐） / All kinds of Music (especially Classical)
  - 🏎️ 赛车（主要是F1) / Automobile Racing (mainly Formula 1)
  - 🎮 二刺螈吧大概 / Animes, Comics, Games and Novels

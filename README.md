@@ -1,31 +1,40 @@
-## 👋 嗨，你好 / Hi there
-谢谢你来看我呀！/ Thank you for visiting my Profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=crane22.crane22)  
+#  👋 嗨，你好 / Hi there ![visitors](https://visitor-badge.glitch.me/badge?page_id=crane22.crane22)
 ## 🦩 个人简介 / Who am I
-  
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crane22&show_icons=true&theme=prussian"/>
-  
- - 我是鹤望兰，你也可以叫我小鹤，目前就读于某野🐓️大学信息工程专业，即将处于失学边缘。是一个热衷于起名字的天马行空的神经病（毕竟这年头，会突然决定要去考个研，还是在2022年这种情况，还要考个清华的人，不多了）。  
- - I am Strelitzia, and you can also call me crane (NOT a 🏗️, for Strelitzia is also known as "crane flower") or tsuru-chan (Crane is pronounced as "ツル" in Japanese). I am now an undergraduate at BUPT, major in Information Engineering.   
+
+ - 我是鹤望兰（可以叫我小鹤），目前大四，就读于某野🐔大学信息工程专业。热衷于发现问题，解决问题；也喜欢瞎鼓捣东西。  
+ - I am Crane Lily (a.k.a. Strelitzia reginae), and you can also call me "crane" (NOT this machine 🏗️!). I am currently a senior student at Beijing University of Posts and Telecommunications in China, majoring in Information Engineering. I'm a creative problem-solving enthusiast and a guy who loves hacking stuff. 
 ### 📄 ~我的简历（中文）在[这里]() / My Résumé (in English) is available [here]()~ *(暂时不可用/not available now)*  
-## 🔭 最近目标 / To-Do List
- - [ ] 正在考研，以防失学 / Preparing for PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))  
 ## 🌱 科研兴趣 / Research Interests
- - 数据科学与人工智能（大概不算） / Data Science and Artificial Intelligence (probably not)
- - 机器学习系统 / MLSys
+ - 机器学习系统 / Machine Learning Systems (i.e. MLSys)
+ - 数据科学与人工智能（曾经简单涉猎） / Data Science and Artificial Intelligence (formerly)
+## ⚙️ 技术技能 / Specifications
+| | 高/High | 中/Medium | 低/Low |
+| --------------- | --------------- | --------------- | ------------- |
+| **编程语言 / Languages(programming)** | Python, C/C++ | Java | Rust, Verilog |
+| **框架平台 / Frameworks&Platforms** | PyTorch | Git | Docker, K8s |
+| **人类语言 / Languages(human)** | Chinese, English | Japanese |  |
+# 🔭 最近目标 / To-Do List
+ - [ ] 考研 / Prepare for the Chinese PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))  
+ - [ ] 简单实现一个操作系统 / Build a simple Operating System
+ - [ ] 学Rust / Learn Rust
 <!---
 ## 🏢 开源贡献 / Contributions
 --->
-## 💞️ 业余爱好 / Hobbies
- - 各种音乐，尤其是经典的 / Music
- - 业余无线电 / Ham Radio
- - 瞎折腾 / Z-turns
-## 📫 联系方式 / Find me
+## ✨ 业余爱好 / Hobbies
+ - 各种音乐（尤其是古典乐） / All kinds of Music (especially Classical)
+ - 赛车（主要是F1) / Automobile Racing (mainly Formula 1)
+ - 二次元吧大概 / Animes, Comics, Games and Novels
+## 📫 联系方式 / How to reach me
 [![Homepage](https://img.shields.io/badge/Blog-crane.moe-2b3388?style=for-the-badge&logo=netlify&logoColor=white)](https://crane.moe)
 [![Telegram](https://img.shields.io/badge/Telegram-@crane22-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crane22)
 [![E-mail](https://img.shields.io/badge/EMail-i@crane.moe-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:i@crane.moe)
-
-### ✨ Seine Zeit in sich zu überwinden, "zeitlos" zu werden. ✨
-### ✨ To overcome his age in himself, to become “timeless.” ✨
+## 💬 格言 / Quote
+###
+#### Seine Zeit in sich zu überwinden, "zeitlos" zu werden. <div align="right">————Friedrich Wilhelm Nietzsche</div>
+#### 在自己的身上克服这个时代。<div align="right">————弗里德里希·尼采</div>
+#### To overcome his age in himself, to become "timeless." <div align="right">————Friedrich Wilhelm Nietzsche</div>
 
 <!---
 - 👋 Hi, I’m @crane22

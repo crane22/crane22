@@ -8,7 +8,7 @@
 ### 📄 ~我的简历（中文）在[这里]() / My Résumé (in English) is available [here]()~ *(暂时不可用/not available now)*  
 ## 🌱 科研兴趣 / Research Interests
  - 机器学习系统 / Machine Learning Systems (i.e. MLSys)
- - 数据科学与人工智能（曾经简单涉猎） / Data Science and Artificial Intelligence (learned )
+ - 数据科学与人工智能（曾经简单涉猎） / Data Science and Artificial Intelligence (learned before)
 ## ⚙️ 技术技能 / Specifications
 | | 高/High | 中/Medium | 低/Low |
 | --------------- | --------------- | --------------- | ------------- |

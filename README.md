@@ -9,6 +9,7 @@
 ## 🌱 科研兴趣 / Research Interests
  - 机器学习系统 / Machine Learning Systems (i.e. MLSys)
  - 数据科学与人工智能（曾经简单涉猎） / Data Science and Artificial Intelligence (learned before)
+ - 对各个领域有广泛的兴趣 / I’m currently learning the theory of everything!
 ## ⚙️ 技术技能 / Specifications
 | | 高 / High | 中 / Medium | 低 / Low |
 | --------------- | --------------- | --------------- | ------------- |
@@ -28,6 +29,10 @@
  - 🏎️ 赛车（主要是F1) / Automobile Racing (mainly Formula 1)
  - 🎮 二刺螈吧大概 / Animes, Comics, Games and Novels
  - 🐈 可爱猫猫 / Cute Cats
+<!---
+## ⚡ / Fun facts
+ - 
+--->
 ## 📫 联系方式 / How to reach me?
 [![Homepage](https://img.shields.io/badge/Blog-crane.moe-2b3388?style=for-the-badge&logo=netlify&logoColor=white)](https://crane.moe)
 [![Telegram](https://img.shields.io/badge/Telegram-@crane22-0078D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crane22)

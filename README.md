@@ -3,8 +3,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crane22&show_icons=true&theme=prussian"/>
 
- - 我是鹤望兰（可以叫我小鹤）。目前是某野🐔大学信息工程专业大四。热衷于发现问题、解决问题；也喜欢瞎鼓捣东西。  
- - I am Crane Lily (a.k.a. Strelitzia reginae), and you can call me "crane" (NOT this machine 🏗️! ). I am currently a senior student at Beijing University of Posts and Telecommunications in China, majoring in Information Engineering. I'm a creative problem-solving enthusiast and a guy who loves hacking stuff. 
+ - 我是鹤望兰（可以叫我小鹤）。目前是某野🐔大学信息工程专业大四。热衷于发现问题、解决问题；也喜欢鼓捣东西和重复发明轮子。  
+ - I am CraneLily (a.k.a. Strelitzia reginae), and you can call me "crane" (NOT this machine 🏗️! ). I am currently a senior student at Beijing University of Posts and Telecommunications in China, majoring in Information Engineering. I'm a creative problem-solving enthusiast and a guy who loves hacking stuff and reinventing wheels. 
 ### 📄 ~我的简历（中文）在[这里]() / My Résumé (in English) is available [here]()~ *(暂时不可用/not available now)*  
 ## 🌱 科研兴趣 / Research Interests
  - 机器学习系统 / Machine Learning Systems (i.e. MLSys)

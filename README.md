@@ -13,8 +13,8 @@
 ## ⚙️ 技术技能 / Specifications
 | | 高 / High | 中 / Medium | 低 / Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **编程语言 / Programming Languages** | Python, C/C++ | Java | Rust, Verilog |
-| **框架平台 / Frameworks & Platforms** | PyTorch | Git, Zsh | Docker, K8s |
+| **编程语言 / Programming Languages** | Python, C++ | C, Java | Rust, Go |
+| **框架平台 / Frameworks & Platforms** | PyTorch, NumPy | Git, Zsh | Docker, K8s |
 | **人类语言 / Human Languages** | Chinese, English | Japanese |  |
 ## 🔭 最近目标 / To-Do List
  - [ ] 考研 / Prepare for the Chinese PostGrad Entrance Exam (仓库链接 / Project Link: [NPEE-Tsinghua-CS912](https://github.com/crane22/NPEE-Tsinghua-CS912))
@@ -27,7 +27,8 @@
 ## ✨ 业余爱好 / What do I like?
  - 🎶 各种音乐（尤其是古典乐） / All kinds of Music (especially Classical)
  - 🏎️ 赛车（主要是F1) / Automobile Racing (mainly Formula 1)
- - 🎮 二刺螈吧大概 / Animes, Comics, Games and Novels
+ - ✒️ 内容创作 / Content Creation
+ - 🎮 动画、漫画、游戏和小说 / Animes, Comics, Games and Novels
  - 🐈 可爱猫猫 / Cute Cats
 <!---
 ## ⚡ / Fun facts
